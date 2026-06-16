@@ -12,33 +12,33 @@ Acompanhar diariamente diversos sites de concursos consome tempo e aumenta o ris
 
 Foi desenvolvido um sistema automatizado capaz de:
 
-- Monitorar páginas de concursos
-- Detectar novas publicações
-- Filtrar informações relevantes
-- Enviar alertas automáticos para o Telegram
-- Reduzir a necessidade de acompanhamento manual
+* Monitorar páginas de concursos públicos
+* Detectar novas publicações automaticamente
+* Filtrar informações relevantes
+* Enviar alertas automáticos para o Telegram
+* Reduzir a necessidade de acompanhamento manual
 
 ## Tecnologias Utilizadas
 
-- Python
-- Telegram Bot API
-- Web Scraping
-- Automação de Processos
+* Python
+* Telegram Bot API
+* Web Scraping
+* Automação de Processos
 
 ## Resultados
 
-- Notificações automáticas
-- Economia de tempo operacional
-- Centralização das informações
-- Maior agilidade no acompanhamento de concursos
+* Notificações automáticas em tempo real
+* Economia de tempo operacional
+* Centralização das informações em um único canal
+* Maior agilidade no acompanhamento de concursos
 
 ## Aprendizados
 
-- Integração com APIs
-- Automação de tarefas repetitivas
-- Tratamento de dados
-- Monitoramento automatizado
-- Resolução de problemas reais
+* Integração com APIs
+* Automação de tarefas repetitivas
+* Tratamento e validação de dados
+* Monitoramento automatizado
+* Resolução de problemas reais
 
 ## Status
 
